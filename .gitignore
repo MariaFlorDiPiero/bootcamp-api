@@ -1,0 +1,17 @@
+# Arquivos do Maven
+target/
+.mvn/
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de IDE
+.idea/
+*.iml
+*.log
+*.swp
+.DS_Store
+
+# Arquivos do VS Code
+.vscode/
